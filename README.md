@@ -1,2 +1,4 @@
 # jQuery-Dots
-Hover to make the dots procreate little dots
+Move your mouse over the dots to make them procreate more little dots: 
+
+[http://jquery-dots.azurewebsites.net/](http://jquery-dots.azurewebsites.net/)
