@@ -1,0 +1,27 @@
+body {
+  background: #000;
+}
+
+.container {
+  width: 800px;
+  height: 400px;
+  margin: 100px auto;
+}
+
+.parent{
+  width: 50%;
+  float: left;
+}
+
+.circle {
+  width: 50%;
+  float: left;
+  background: #333;
+  display: inline-block;
+  border-radius: 15%;
+}
+
+.initial {
+  height: 400px;
+  border-radius: 50%;
+}
